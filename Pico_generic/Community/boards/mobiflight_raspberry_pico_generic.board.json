@@ -11,27 +11,24 @@
       "EEPROMSize": 1496,
       "ExtraConnectionRetry": false,
       "ForceResetOnFirmwareUpdate": true,
-      "MessageSize": 64
+      "MessageSize": 96
     },
     "HardwareIds": ["^VID_2E8A&PID_000A"],
     "Info": {
       "CanInstallFirmware": true,
       "CanResetBoard": true,
-      "FirmwareBaseName": "mobiflight_template_raspberrypico",
+      "FirmwareBaseName": "mobiflight_raspberrypico_generic",
       "FirmwareExtension": "uf2",
-      "FriendlyName": "MobiFlight Template RaspiPico",
-      "LatestFirmwareVersion": "0.0.1",
-      "MobiFlightType": "Mobiflight Template RaspiPico",
+      "FriendlyName": "MobiFlight RaspiPico generic",
+      "LatestFirmwareVersion": "2.5.1",
+      "MobiFlightType": "Mobiflight RaspiPico generic",
       "ResetFirmwareFile": "reset.raspberry_pico_flash_nuke.uf2",
-      "CustomDeviceTypes": [
-        "MOBIFLIGHT_TEMPLATE",
-        "MOBIFLIGHT_TEMPLATE2"
-      ],
+      "CustomDeviceTypes": [],
       "Community": {
-        "Project": "Your Project",
-        "Website": "https://YourWebsite.com",
-        "Docs": "https://YourWebsite.com",
-        "Support": "https://YourWebsite.com"
+        "Project": "Raspberry Pico generic",
+        "Website": "https://github.com/elral/MF_Pico_generic",
+        "Docs": "https://github.com/elral/MF_Pico_generic",
+        "Support": "https://github.com/elral/MF_Pico_generic"
       }
     },
     "ModuleLimits": {
@@ -46,7 +43,7 @@
       "MaxShifters": 6,
       "MaxSteppers": 6,
       "MaxInputMultiplexer": 6,
-      "MaxCustomDevices": 5
+      "MaxCustomDevices": 0
     },
     "Pins": [
       {
@@ -187,6 +184,25 @@
         "isPWM": true,
         "Pin": 22
       },
+      
+      {
+        "isAnalog": false,
+        "isI2C": false,
+        "isPWM": true,
+        "Pin": 23
+      },
+      {
+        "isAnalog": false,
+        "isI2C": false,
+        "isPWM": true,
+        "Pin": 24
+      },
+      {
+        "isAnalog": false,
+        "isI2C": false,
+        "isPWM": true,
+        "Pin": 25
+      },
       {
         "isAnalog": true,
         "isI2C": false,
@@ -207,6 +223,13 @@
         "isPWM": true,
         "Name": "A2",
         "Pin": 28
+      },
+      {
+        "isAnalog": true,
+        "isI2C": false,
+        "isPWM": true,
+        "Name": "A3",
+        "Pin": 29
       }
     ]
   }
