@@ -25,7 +25,7 @@
       "ResetFirmwareFile": "reset.raspberry_pico_flash_nuke.uf2",
       "CustomDeviceTypes": [],
       "Community": {
-        "Project": "Raspberry Pico generic",
+        "Project": "Raspberry Pico boards",
         "Website": "https://github.com/elral/MF_Pico_generic",
         "Docs": "https://github.com/elral/MF_Pico_generic",
         "Support": "https://github.com/elral/MF_Pico_generic"
