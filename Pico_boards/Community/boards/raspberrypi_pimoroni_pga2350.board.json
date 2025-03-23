@@ -22,7 +22,7 @@
     "FirmwareBaseName": "mobiflight_pimoroni_pga2350",
     "FirmwareExtension": "uf2",
     "FriendlyName": "Mobiflight Pimoroni PGA2350",
-    "LatestFirmwareVersion": "2.5.1",
+    "LatestFirmwareVersion": "0.0.1",
     "MobiFlightType": "Mobiflight Pimoroni PGA2350",
     "ResetFirmwareFile": "reset.arduino_raspberrypico2_1_0_2.uf2"
   },

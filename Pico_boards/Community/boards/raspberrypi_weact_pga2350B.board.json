@@ -22,7 +22,7 @@
     "FirmwareBaseName": "mobiflight_weact_pga2350B",
     "FirmwareExtension": "uf2",
     "FriendlyName": "Mobiflight WeAct PGA2350B",
-    "LatestFirmwareVersion": "2.5.1",
+    "LatestFirmwareVersion": "0.0.1",
     "MobiFlightType": "Mobiflight WeAct PGA2350B",
     "ResetFirmwareFile": "reset.arduino_raspberrypico2_1_0_2.uf2"
   },
