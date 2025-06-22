@@ -24,7 +24,7 @@
     "FriendlyName": "Mobiflight Pimoroni PGA2350",
     "LatestFirmwareVersion": "0.0.1",
     "MobiFlightType": "Mobiflight Pimoroni PGA2350",
-    "ResetFirmwareFile": "reset.arduino_raspberrypico2_1_0_2.uf2"
+    "ResetFirmwareFile": "reset.raspberry_pico1-2_flash_nuke.uf2"
   },
   "ModuleLimits": {
     "MaxAnalogInputs": 7,
