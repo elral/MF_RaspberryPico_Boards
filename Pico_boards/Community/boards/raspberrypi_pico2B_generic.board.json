@@ -14,7 +14,7 @@
     "MessageSize": 96
   },
   "HardwareIds": [
-    "^VID_2E8A&PID_1018"
+    "^VID_2E8A&PID_AA02"
   ],
   "Info": {
     "CanInstallFirmware": true,
