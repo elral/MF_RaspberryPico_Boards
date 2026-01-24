@@ -7,7 +7,7 @@ CORESOURCE_DIR = env.subst("$PROJECT_DIR/src")
 CORESOURCE_TAG = env.GetProjectOption("custom_core_firmware_version")
 
 # !! CAUTION !!
-# Delete the next lines once the ESP32 branch from elral is merged into the the MF main branch and is released
+# Delete the next lines once the Pico2 branch from elral is merged into the the MF main branch and is released
 CORESOURCE = "https://github.com/elral/MobiFlight-FirmwareSource"
 CORESOURCE_TAG = "Pico2_support"
 # !! CAUTION !!
