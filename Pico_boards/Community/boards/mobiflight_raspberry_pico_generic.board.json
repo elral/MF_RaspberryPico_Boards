@@ -26,9 +26,9 @@
       "CustomDeviceTypes": [],
       "Community": {
         "Project": "Raspberry Pico boards",
-        "Website": "https://github.com/elral/MF_Pico_generic",
-        "Docs": "https://github.com/elral/MF_Pico_generic",
-        "Support": "https://github.com/elral/MF_Pico_generic"
+        "Website": "https://github.com/elral/MF_RaspberryPico_Boards",
+        "Docs": "https://github.com/elral/MF_RaspberryPico_Boards",
+        "Support": "https://github.com/elral/MF_RaspberryPico_Boards"
       }
     },
     "ModuleLimits": {
