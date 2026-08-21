@@ -25,13 +25,12 @@
     "LatestFirmwareVersion": "0.0.1",
     "MobiFlightType": "Mobiflight Pimoroni PGA2350",
     "ResetFirmwareFile": "reset.raspberry_pico2_1_0_2.uf2",
-      "CustomDeviceTypes": [],
-      "Community": {
-        "Project": "Raspberry Pico boards",
-        "Website": "https://github.com/elral/MF_RaspberryPico_Boards",
-        "Docs": "https://github.com/elral/MF_RaspberryPico_Boards",
-        "Support": "https://github.com/elral/MF_RaspberryPico_Boards"
-      }
+    "Community": {
+      "Project": "xyz",
+      "Website": "https://xyz.com",
+      "Docs": "https://xyz.com/documents",
+      "Support": "https://xyz.com/support"
+    }
   },
   "ModuleLimits": {
     "MaxAnalogInputs": 7,
