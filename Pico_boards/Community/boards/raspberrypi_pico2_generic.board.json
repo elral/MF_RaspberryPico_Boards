@@ -22,7 +22,13 @@
     "FriendlyName": "Mobiflight RaspiPico2 generic",
     "LatestFirmwareVersion": "0.0.1",
     "MobiFlightType": "Mobiflight RaspiPico2 generic",
-    "ResetFirmwareFile": "reset.raspberry_pico1-2_flash_nuke.uf2"
+    "ResetFirmwareFile": "reset.raspberry_pico2_1_0_2.uf2",
+    "Community": {
+      "Project": "xyz",
+      "Website": "https://xyz.com",
+      "Docs": "https://xyz.com/documents",
+      "Support": "https://xyz.com/support"
+    }
   },
   "ModuleLimits": {
     "MaxAnalogInputs": 3,
